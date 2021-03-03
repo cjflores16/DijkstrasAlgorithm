@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Road
+comment1.params=city1\ city2\ distance\ name
+comment1.target=Road(City,\ City,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getDistance()
+comment4.params=c
+comment4.target=City\ getNeighborCity(City)
+numComments=5

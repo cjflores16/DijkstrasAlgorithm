@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=name
+comment1.target=City(java.lang.String)
+comment10.params=
+comment10.target=void\ markAsVisited()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=other
+comment4.target=boolean\ equals(City)
+comment5.params=r
+comment5.target=void\ addRoad(Road)
+comment6.params=
+comment6.target=java.util.ArrayList\ getRoadList()
+comment7.params=newDist
+comment7.target=void\ setDistanceFromInitial(int)
+comment8.params=
+comment8.target=int\ getDistanceFromInitial()
+comment9.params=
+comment9.target=boolean\ hasBeenVisited()
+numComments=11
